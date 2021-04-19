@@ -1,7 +1,7 @@
 {
   "name": "projeto_web_parte_2",
   "version": "0.1.0",
-  "homepage": "http://HenriquiFS.github.io/projeto_web_parte_2",
+  "homepage": "http://HFS-2.github.io/projeto_web_parte_2",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
