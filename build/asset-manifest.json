@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/projeto-web-parte-2/static/css/main.6cae3e01.chunk.css",
+    "main.js": "/projeto-web-parte-2/static/js/main.19f95db7.chunk.js",
+    "main.js.map": "/projeto-web-parte-2/static/js/main.19f95db7.chunk.js.map",
+    "runtime-main.js": "/projeto-web-parte-2/static/js/runtime-main.0ff7ec9e.js",
+    "runtime-main.js.map": "/projeto-web-parte-2/static/js/runtime-main.0ff7ec9e.js.map",
+    "static/js/2.acff2ca0.chunk.js": "/projeto-web-parte-2/static/js/2.acff2ca0.chunk.js",
+    "static/js/2.acff2ca0.chunk.js.map": "/projeto-web-parte-2/static/js/2.acff2ca0.chunk.js.map",
+    "index.html": "/projeto-web-parte-2/index.html",
+    "static/css/main.6cae3e01.chunk.css.map": "/projeto-web-parte-2/static/css/main.6cae3e01.chunk.css.map",
+    "static/js/2.acff2ca0.chunk.js.LICENSE.txt": "/projeto-web-parte-2/static/js/2.acff2ca0.chunk.js.LICENSE.txt",
+    "static/media/Home.css": "/projeto-web-parte-2/static/media/nokkok.e16f408e.ttf",
+    "static/media/img_big_inicio.f55e3846.PNG": "/projeto-web-parte-2/static/media/img_big_inicio.f55e3846.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ff7ec9e.js",
+    "static/js/2.acff2ca0.chunk.js",
+    "static/css/main.6cae3e01.chunk.css",
+    "static/js/main.19f95db7.chunk.js"
+  ]
+}

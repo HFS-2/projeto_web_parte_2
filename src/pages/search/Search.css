@@ -1,0 +1,86 @@
+.main_box{
+    display: flex;
+    flex-direction: column;
+}
+
+.head{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 75px;
+    width: 1000px;
+}
+  
+.instructions{
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    margin-left: 250px;
+}
+
+.bt_inicio{
+    padding-left: 25px;
+    padding-right: 10px;
+}
+
+.bt_logout{
+    padding-left: 10px;
+    padding-right: 10px;
+    text-decoration: underline
+}
+
+.bt_logout:hover{
+    color: red;
+}
+    
+.form_search{
+    position: relative;
+    margin-left: 250px;
+    justify-content: center;
+    align-items: center;
+}
+  
+input[type=text], select {
+    border: none;
+    background-color: #d3d8ee;
+    color: black;
+    padding: 1rem;
+    font-size: 20px;
+    width: 350px;
+    border-radius: 5px;
+    transition: all .2s linear;
+}
+  
+.botao_buscar{
+    border: none;
+    background-color: rgb(5, 64, 190);
+    color:#fdfdfd;
+    padding:.5rem 2rem;
+    font-size: 1.2rem;
+    border-radius:6.25rem;
+    width: 200px;
+    height: 52px;
+    margin-left: 50px;
+    cursor: pointer;
+}
+  
+.botao_buscar:hover{
+    background-color: rgb(5, 64, 190);
+}
+  
+.botao_buscar:focus{
+    outline:none;
+}
+  
+.resultado{
+    position: relative;
+    margin-left: 250px;
+    line-height: 20px;
+    max-width: 70%;
+    font-size: 18px;
+    color: rgb(7, 36, 97);
+    font-weight: bold;
+}
+  
+
+     
